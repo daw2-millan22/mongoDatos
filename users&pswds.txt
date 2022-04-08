@@ -1,0 +1,75 @@
+token 
+3aueveytehvzjin2d2wrjhdmmwmhcm3dj34gtv3c6clnjtjbfwoq
+
+
+
+user de miguel en ree
+
+Mail (VPN-Webmail): Miguel.Lucio@ree.es
+
+Usuario: LUCRODMI
+
+PIN:0686
+
+Mi contraseña de REE: Madrid2022Change
+
+https://webmail.ree.es/owa/#path=/mail
+
+ https://www.scm.ree.es/bitbucket/projects/IMPULSA
+
+reedev.eu10cf.applicationstudio.cloud.sap/index.html
+
+m.de.lucio.rodriguez@accenture.com
+
+token jira
+Njg2MTAyOTYwMzYxOgbIzimUcgLiFM6f7gDynBdmx5ao
+
+
+3f·4wf*qEASgRv391Amn
+
+git config --global user.name "Miguel De Lucio Rodriguez"
+
+
+
+
+
+
+https://open.sap.com/courses/ui51
+
+
+
+
+r.millan.fernandez@accenture.com
+
+
+[credential]
+	helper = manager-core
+
+
+   (c).-.(c)          
+    / ._. \            
+  __\( Y )/__        
+ (_.-/'-'\-._)        
+    || E ||         
+  _.' `-' '._      
+ (.-./`-'\.-.)        
+  `-'     `-'  
+
+ a la hora de hacer push me detecta la cuenta anterior que tenia aunque haya hecho un git config user.name "cuentanueva"
+
+
+git config username.user "LUCRODMI"
+
+{requestModel>Begda}
+
+MONGODB
+
+axR2HYSCmcXXXtAQ
+
+mongodb+srv://Ricardo96:<password>@cluster0.vfndm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
+----------------
+
+G1lBlkoo6n53k2Q1
+
+mongodb+srv://Ricardito96:<password>@cluster0.wov3v.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
